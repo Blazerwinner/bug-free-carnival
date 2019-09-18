@@ -42,4 +42,21 @@ input {
   cursor: pointer;
   
 }
+
+#after_submit { 
+  visibility: hidden;
+  background: #ff5459;
+  padding: 10px 20px 10px 20px;
+  width:400px
+    border-radius: 20px;
+  float: left;
+  margin-left: 20px;
+  font-size: 30px;
+  
+}
+
+#picture {
+  width: 375px;
+  height: 245px;
+}
   
